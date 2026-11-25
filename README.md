@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Srinivas Kanamareddy
 
-<!--
-**srinivaskanamareddy4-source/srinivaskanamareddy4-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student (2027)
 
-Here are some ideas to get you started:
+💻 Interested in Software Development and Hardware Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning Java, C, SQL and Python.
+- 🔧 Interested in IoT and Embedded Systems.
+- 🤖 Exploring Deep Learning and Machine Learning.
+- 💡 Passionate about building real-world projects.
+- 🎯 Looking for opportunities to learn and grow.
+
+## 🛠️ Technical Skills
+- **Programming:** Java, C, SQL, Python
+- **Software:** Deep Learning, CNN, OpenCV, TensorFlow
+- **Hardware:** Arduino UNO, Embedded C, IoT
+- **Core Subjects:** DBMS, Data Structures
+
+## 📌 Projects
+- Skin Cancer Detection Using Deep Learning
+- Automatic Street Lighting System
+- Smart Blind Stick Using Arduino
+
+## 🔗 Connect With Me
+- GitHub: https://github.com/srinivaskanamareddy4-source
+
+---
+⭐ Thanks for visiting my profile!
